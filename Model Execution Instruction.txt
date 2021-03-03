@@ -1,0 +1,11 @@
+In verify_model.py please provide your hold_out_dataset.csv name > save the file > open command prompt >
+
+python verify_model.py
+
+
+Please install the following python packages
+
+pip install pandas  -- dataframe creation
+pip install pycaret  -- reression and classification model building
+pip install dtale   -- exploratory data analysis
+pip install shap    -- visualization for certain models
